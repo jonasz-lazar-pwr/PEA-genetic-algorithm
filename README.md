@@ -1,1 +1,1 @@
-# PEA-genetic-algorithm
+# Implementation of the GA algorithm
