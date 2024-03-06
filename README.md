@@ -1,1 +1,1 @@
-# Implementation of the GA algorithm
+# Implementation of the GA algorithm for TSP problem
